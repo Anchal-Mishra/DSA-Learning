@@ -1,6 +1,6 @@
-Code1. WAP to calculate total and average of three numbers.
+Code1. WAP to calculate total and average of three numbers.  
 Code4. WAP to calculate sum of each digit of a 4 digit number also display number in reverse order.
-Code5. WAP to display notes of 100 , notes of 50, notes of 10 , notes of 1 of a 4 digit amount.
+Code5. WAP to display notes of 100 , notes of 50, notes of 10 , notes of 1 of a 4 digit amount.<br>
 Code6. WAP to calculate sum of first and last digit of a 4 digit number.
 Code7. WAP to check whether a number is even of odd.
 Code8. WAP to check whether a year is leap year or not. 
