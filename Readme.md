@@ -1,4 +1,6 @@
-Code1. WAP to calculate total and average of three numbers.  
+Code1. WAP to calculate total and average of three numbers. 
+Code2. Convert C to F.
+Code3. Swap two number without using third variable. 
 Code4. WAP to calculate sum of each digit of a 4 digit number also display number in reverse order.  
 Code5. WAP to display notes of 100 , notes of 50, notes of 10 , notes of 1 of a 4 digit amount.  
 Code6. WAP to calculate sum of first and last digit of a 4 digit number.  
